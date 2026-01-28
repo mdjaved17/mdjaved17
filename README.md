@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=2897b0&center=true&vCenter=true&width=2000&height=200&lines=PROBLEM+SOLVER;TURNING+IDEAS+TO+SOLUTION;MERN+STACK+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;)](https://git.io/typing-svg)
 
 # 💫 About Me: 
-- 🔭  I’m currently working on React & Redux-based applications Contributing to open-source frontend project**.
+- 🔭  I’m currently working on React & Redux-based applications Contributing to open-source project**.
 - <img src="https://media4.giphy.com/media/l0MYuxp3Rjlrka8mY/200.webp?cid=790b76115esq03inj9skqdxeo4sqqlhkuuqgyswvnfftaaqz&ep=v1_gifs_search&rid=200.webp&ct=g" width='18px' height='18px'> Exploring how Web2 frontends integrate with Web3 technologies, including wallets and blockchain interactions.
 - <img src="https://media2.giphy.com/media/PApW98sUsCNU3owAMg/giphy.webp?cid=790b7611zesvc575x2ottodr7glkd95czz1xljh6i2lz8gud&ep=v1_gifs_search&rid=giphy.webp&ct=g " width='18px' height='18px'> Writing production-ready React code
 Better Redux patterns & architecture  
