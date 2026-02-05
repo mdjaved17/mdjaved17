@@ -1,5 +1,5 @@
 <h1>I'M MD JAVED
-<img src="https://media1.giphy.com/media/dNgK7Ws7y176U/giphy.webp?cid=ecf05e47dopoa3mhnbzc864xt44df8i4by8hjn0ohycze5gr&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="50" align="center"></h1>  
+<!-- <img src="https://media1.giphy.com/media/dNgK7Ws7y176U/giphy.webp?cid=ecf05e47dopoa3mhnbzc864xt44df8i4by8hjn0ohycze5gr&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="50" align="center"></h1>   -->
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=2897b0&center=true&vCenter=true&width=2000&height=200&lines=PROBLEM+SOLVER;TURNING+IDEAS+TO+SOLUTION;MERN+STACK+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;)](https://git.io/typing-svg)
