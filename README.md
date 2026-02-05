@@ -1,4 +1,4 @@
-<h1>HI THERE ! I'M MD JAVED
+<h1>I'M MD JAVED
 <img src="https://media1.giphy.com/media/dNgK7Ws7y176U/giphy.webp?cid=ecf05e47dopoa3mhnbzc864xt44df8i4by8hjn0ohycze5gr&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="50" align="center"></h1>  
 
 
